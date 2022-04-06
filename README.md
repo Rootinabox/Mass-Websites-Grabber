@@ -1,4 +1,4 @@
-# Mass WebsitesGrabber
+# Mass Websites Grabber
 
 
 ## What can it do?
@@ -39,11 +39,12 @@ pip install colorama
 python privategrabber.py
 ```
 <img src="banner.jpg">
----
+
 
 ## Issues & Features
 If you find any problems or have a feature request, feel free to contact me.
 
 Telegram : @rootinabox
+
 Channel  : https://t.me/Rootinabox_Channel
 ---
