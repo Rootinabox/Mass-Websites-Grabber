@@ -4,7 +4,7 @@
 ## What can it do?
 This project aims to provide an easy-to-use python tool for grabing websites links. This can be useful for data uses as well as pentesting purposes.
 
-This tool however only grab the websites links from all possible IPs (from 0.0.0.0 to 265.265.265)
+This tool however only grab the websites links from all possible IPs (from 0.0.0.0 to 256.256.256)
 
 ---
 
